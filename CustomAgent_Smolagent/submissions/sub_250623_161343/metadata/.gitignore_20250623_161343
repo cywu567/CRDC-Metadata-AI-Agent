@@ -1,8 +1,0 @@
-venv/
-smolagents
-__pycache__/
-*.py[cod]
-submissions/
-*.egg-info/
-.DS_Store
-CustomAgent
