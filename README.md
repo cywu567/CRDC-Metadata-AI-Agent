@@ -20,7 +20,7 @@ A key feature is an integrated feedback loop that collects system and user feedb
 
 3. **Install requirements**
    ```bash
-   pip install os, smolagent, requests
+   pip install os, smolagent, requests, pydantic
    ```
 
 4. To run,
